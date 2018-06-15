@@ -41,7 +41,7 @@ ans)  <img [src]="image.url">
 ans)Eager Loading
 
 15. which has an application logic that controls the web interface view
-ans)
+ans)component
 
 16..........is used to organize application modules into cohesive blocks with related functionality
 ans)Browser Module
